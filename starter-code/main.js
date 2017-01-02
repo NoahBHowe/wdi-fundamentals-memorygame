@@ -22,7 +22,7 @@ if (cardTwo === cardThree) {
 } else {
   alert('Sorry, try again.');
 }
-if (cardOne === cardFour) {
+if (cardTwo === cardFour) {
 	alert('You found a match!');	
 } else {
   alert('Sorry, try again.');
