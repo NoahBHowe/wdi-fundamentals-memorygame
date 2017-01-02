@@ -15,7 +15,7 @@ if (cardOne === cardThree) {
 if (cardOne === cardFour) {
 	alert('You found a match!');	
 } else {
-  alert('Error, does not compute');
+  alert('Error, does not compute.');
 }
 if (cardTwo === cardThree) {
 	alert('You found a match!');	
@@ -25,10 +25,10 @@ if (cardTwo === cardThree) {
 if (cardTwo === cardFour) {
 	alert('You found a match!');	
 } else {
-  alert('Error, does not compute');
+  alert('Error, does not compute.');
 }
 if (cardThree === cardFour) {
 	alert('You found a match!');	
 } else {
-  alert('Error, does not compute');
+  alert('Error, does not compute.');
 }
