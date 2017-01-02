@@ -5,30 +5,30 @@ var cardFour = "king";
 if (cardOne === cardTwo) {
 	alert('You found a match!');	
 } else {
-  alert('Sorry, try again.');
+  alert('Error, does not compute.');
 }
 if (cardOne === cardThree) {
 	alert('You found a match!');	
 } else {
-  alert('Sorry, try again.');
+  alert('Error, does not compute.');
 }
 if (cardOne === cardFour) {
 	alert('You found a match!');	
 } else {
-  alert('Sorry, try again.');
+  alert('Error, does not compute');
 }
 if (cardTwo === cardThree) {
 	alert('You found a match!');	
 } else {
-  alert('Sorry, try again.');
+  alert('Error, does not compute.');
 }
 if (cardTwo === cardFour) {
 	alert('You found a match!');	
 } else {
-  alert('Sorry, try again.');
+  alert('Error, does not compute');
 }
 if (cardThree === cardFour) {
 	alert('You found a match!');	
 } else {
-  alert('Sorry, try again.');
+  alert('Error, does not compute');
 }
