@@ -3,14 +3,12 @@
 }
 h1 {
 	color: rgb(2, 132, 130);
-	text-align: center;
 }
 h2 {
 	color: #ffd700;
-	text-align: center;
 }
 nav {
-	background-color: #bf4646;
+	background-color: #808080;
 }
 a {
 	background-color: #ffbf00;
@@ -19,9 +17,6 @@ a {
 	display: inline-block;
 	text-decoration: none;
 	float: left;
-}
-p{
-	text-align: center;
 }
 a:hover {
 	background-color: #BA160C;
@@ -58,7 +53,11 @@ a:hover {
 #Name {
 	color: #ff0000;
 }
-img {
-	height: 200px;
-  width: 150px;
+#cardOne {
+}
+#cardTwo {
+}
+#cardThree {
+}
+#cardFour {
 }
