@@ -10,7 +10,7 @@ h2 {
 	text-align: center;
 }
 nav {
-	background-color: #bf4646;
+	background-color: #911855;
 }
 a {
 	background-color: #ffbf00;
@@ -37,14 +37,14 @@ a:hover {
 	border-color: #000000;
 	border: 1px;
 	border-style: solid;
-	background-color: #ffff00;
+	background: linear-gradient(to bottom right, #1d6aad, #a11dad);
 	border-radius: 10px;
 	float: left;
 	margin: 8%;
 }
 .footer {
 	text-align: center;
-	background-color: #808080;
+	background: linear-gradient(to bottom right, #961704, #fff200);
 
 }
 .clearfix:after {
@@ -60,5 +60,5 @@ a:hover {
 }
 img {
 	height: 200px;
-  width: 150px;
+ 	 width: 150px;
 }

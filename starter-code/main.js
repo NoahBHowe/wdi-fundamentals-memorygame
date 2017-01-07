@@ -15,9 +15,9 @@ function isTwoCards() {
 	cardsInPlay.push(this.getAttribute('data-card'));
 	console.log(this.getAttribute('data-card'));
 	if (this.getAttribute('data-card') === 'king') {
-		this.innerHTML = "<img src='http://i.imgur.com/bnuv5Im.png'>"; // king
+		this.innerHTML = "<img src='http://i.imgur.com/v19jmlB.png'>"; // king
 	} else {
-		this.innerHTML = "<img src='http://i.imgur.com/v6buNt2.png'>"; //queen
+		this.innerHTML = "<img src='http://i.imgur.com/3MnAJSY.jpg'>"; //queen
 	}
 	if (cardsInPlay.length === 2) {
 		isMatch(cardsInPlay);
