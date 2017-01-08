@@ -13,7 +13,7 @@ nav {
 	background-color: #911855;
 }
 a {
-	background-color: #ffbf00;
+	background-color: #BA160C;
 	color: white;
 	padding: 35px;
 	display: inline-block;
@@ -24,7 +24,7 @@ p{
 	text-align: center;
 }
 a:hover {
-	background-color: #BA160C;
+	background-color: #ffbf00;
 }
 .board {
 	height: 50%;
